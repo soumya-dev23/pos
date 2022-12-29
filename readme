@@ -1,0 +1,7 @@
+1. Composer update
+
+2. create .env file
+
+3. run migration 
+
+4. run seeder 
